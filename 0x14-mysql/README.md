@@ -1,1 +1,2 @@
-This directory is about the MySQL.
+This directory is about the MySQL, task from Alx.
+
